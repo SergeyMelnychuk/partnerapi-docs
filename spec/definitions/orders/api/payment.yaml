@@ -20,4 +20,4 @@ properties:
   Fees:
     type: array
     items: 
-      "$ref": "#/definitions/address"
+      "$ref": "#/definitions/fee"
